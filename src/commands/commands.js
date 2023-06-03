@@ -1,10 +1,3 @@
-const mineflayer = require('mineflayer');
-var colors = require('colors');
-const fs = require('fs');
-const utils = require('../utils/utils');
-const ready = require('../utils/ready');
-const config = require('../../config.json');
-
 const handleCommands = (bot, channel, username, message) => {
     if (message.content.startsWith(`+restart`)) {
         let split = message.content.split(' ')
@@ -262,7 +255,8 @@ const handleCommands = (bot, channel, username, message) => {
           return
         }
       }
-      // Lista De Comandos final //
+     
+    // mais comandos aqui
   
   };
   
