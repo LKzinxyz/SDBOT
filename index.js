@@ -4,7 +4,7 @@ const utils = require('./src/utils/utils');
 const ready = require('./src/utils/ready');
 const handleCommands = require('./src/commands/commands');
 const config = require('./config.json');
-const { Client, Intents, GatewayIntentBits } = require('discord.js');
+const { Client } = require('discord.js');
 const client = new Client({ intents: 3276799 });
 var colors = require('colors');
 
