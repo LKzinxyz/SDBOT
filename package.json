@@ -5,10 +5,10 @@
   "dependencies": {
     "colors": "^1.4.0",
     "discord": "^0.8.2",
-    "discord.js": "^14.7.1",
+    "discord.js": "^14.11.0",
     "fs": "^0.0.1-security",
     "math": "^0.0.3",
-    "mineflayer": "^4.6.0",
+    "mineflayer": "^4.8.1",
     "moment": "^2.29.4"
   }
 }

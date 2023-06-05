@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 > nul
 
 color 0D
 title STARDIX BOT by LKzinxYz
@@ -12,7 +13,7 @@ echo.
 where node > nul 2>&1
 if %errorlevel% equ 0 (
 echo           +---------------------------------------------+
-echo                     Instalando Dependencias...        
+echo                     Instalando Dependências...        
 echo           +---------------------------------------------+ 
 echo.
     
@@ -29,7 +30,7 @@ color 0A
 mode con: cols=65 lines=5
 echo. 
 echo           +---------------------------------------------+
-echo                      Instalacao concluida!        
+echo                      Instalação concluída!        
 echo           +---------------------------------------------+ 
     
     timeout /t 3 > nul
@@ -40,7 +41,7 @@ color 0C
 mode con: cols=65 lines=5
 echo.
 echo  +------------------------------------------------------------+
-echo                  Node.js não esta instalado. 
+echo                  Node.js não está instalado. 
 echo         Por favor, instale o Node.js para continuar.        
 echo  +------------------------------------------------------------+
     pause > nul
