@@ -13,7 +13,7 @@
 <h4>Instalar node.js + dependencias</h4>
 
 - Para o bot funcionar você precisa instalar <a href="https://nodejs.org/en">Node.js</a>
-- Abra o aquivo ```install.bat```
+- Abra o aquivo ```Instalador.bat```
 
 <h4>Configuração</h4>
 Para começar, você precisa editar o arquivo config.json com os dados do seu bot.
