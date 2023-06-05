@@ -13,7 +13,7 @@
 <h4>Instalar node.js + dependencias</h4>
 
 - Para o bot funcionar você precisa instalar <a href="https://nodejs.org/en">Node.js</a>
-- Abra o aquivo ```Instalador.bat```
+- Abra o aquivo ```Instalador.bat``` para instalar as dependencias e aguarde ele ficar verde
 
 <h4>Configuração</h4>
 Para começar, você precisa editar o arquivo config.json com os dados do seu bot.
@@ -33,11 +33,13 @@ volte para seu grupo no discord, clique com o botão direito em um canal de chat
 
 - Abra o arquivo accounts.txt e complete da seguinte forma:
 
-- exemplo conta original: (nessesario logar no site da microsoft com a conta)
+- exemplo conta original: 
 
 ```
 seunick:123:/pw suapw:microsoft
 ```
+
+- Para conta original quando iniciar o bot, um link será exibido no CMD. Você precisa Copiar e colar no seu navegador nesse link e fazer login com sua conta Microsoft. Depois disso, você será conectado como Nintendo Switch e sua conta original ira conectar no servidor.
 
 - Exemplo conta pirata:
 
@@ -45,9 +47,11 @@ seunick:123:/pw suapw:microsoft
 seunick:suasenha:/pw suapw:
 ```
 
+- Para conta pirata ela ira logar normalmente no servidor sem problemas.
+
 <h4>Iniciar o Bot <h4>
 
-- Para iniciar o Bot você precisa abrir o arquivo start.bat e dar enter.
+- Para iniciar o Bot você precisa abrir o arquivo `Iniciar BOT.bat` e dar enter.
 
 - Pronto! agora você pode farmar em problemas. sempre que o servidor reniciar as contas configuradas irão retornar para pw configurada
 
