@@ -70,7 +70,7 @@ seunick:suasenha:/pw suapw:
 +stop        {NICKBOT}  Pausa uma conta de bots logado.
 +start       {NICKBOT}  Inicia uma conta de bot que foi pausado.
 +restart     {NICKBOT}  Reinicia o bot selecionado.
-+anunciar    {NICKBOT} {MENSSAGEM / COMANDO}  Anuncia ou executa um comando a cada 25 Minutos.
++anunciar    {NICKBOT} {MENSSAGEM / COMANDO}  Anuncia ou executa um comando a cada 30 Minutos.
 +chat        {NICKBOT} {MENSSAGEM / COMANDO}  Envia uma menssagem no chat (nao use ALL).
 +moneyother  {NICKBOT} {PLAYER} Verifica quantidade de money de uma conta especifica.
 +xmoney      {NICKBOT} ou {ALL}  Verifica quantidade de money de suas contas no bot.
