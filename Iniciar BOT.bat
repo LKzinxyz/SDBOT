@@ -10,7 +10,7 @@ echo   / ___)(_  _)/ _\ (  _ \(    \(  )( \/ )  (  _ \ /  \(_  _)/ ___)
 echo   \___ \  )( /    \ )   / ) D ( )(  )  (    ) _ ((  O ) )(  \___ \
 echo   (____/ (__)\_/\_/(__\_)(____/(__)(_/\_)  (____/ \__/ (__) (____/
 echo.
-echo                       BOT by LKzinxYz v1.9
+echo                       BOT by LKzinxYz v1.9.1
 echo                https://github.com/LKzinxyz/SDBOT
 echo.
 

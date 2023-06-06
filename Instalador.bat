@@ -23,7 +23,6 @@ echo.
     npm install colors --no-fund > nul
     npm install math --no-fund > nul
     npm install moment --no-fund > nul
-    npm update --no-fund > nul
     
 cls
 color 0A
