@@ -1,6 +1,6 @@
 # SDBOT
 
-<h4> O que o BOT faz? </h4>
+<h2> O que o BOT faz? </h2>
 
 - O BOT simula uma conta aberta dentro do servidor, e você pode controlar pelo Discord. Sempre que o servidor reiniciar, ele voltará de onde parou com todas as contas que você configurar. Esse BOT serve para farmar com suas contas, sem precisar ficar com vários Minecraft abertos. Você pode usar uma VPS para farmar 24 horas por dia, sem muito custos.
 
@@ -8,7 +8,13 @@
 <h4>Criar um BOT do Discord</h4>
 
 - Primeiro você precisa criar um BOT do discord em <a href="https://discord.com/developers/applications">Discord Dev</a>
-- Ative estas 3 caixinhas ![image](https://github.com/LKzinxyz/SDBOT/assets/122848089/30cab846-fbca-465f-a3e9-20e75d50eae9)
+- Ative estas 3 caixinhas 
+
+<div align="center" dir="auto">
+
+![image](https://github.com/LKzinxyz/SDBOT/assets/122848089/30cab846-fbca-465f-a3e9-20e75d50eae9)
+
+</div
  
 - Chame-o para um grupo privado no qual você tenha permissões e de um cargo de administrador.
 
@@ -27,8 +33,21 @@ Para começar, você precisa editar o arquivo config.json com os dados do seu BO
     "channelId": "SEU_ID_DO_CANAL_DISCORD"
 }
 ```
+- Para obter o DISCORD TOKEN, clique em 'Reset token' na página do Discord Dev.
 
-- Para pegar ID do canal do discord você precisa colocar seu discord em modo administrador, para isso va em configurações > avançado > modo desenvolvedor e ative a caixinha. ![image](https://github.com/LKzinxyz/SDBOT/assets/122848089/baade82d-bb91-445b-899c-7cec87a429e6)
+<div align="center" dir="auto">
+
+![image](https://github.com/LKzinxyz/SDBOT/assets/122848089/ddef8818-7130-4b2f-ae0e-0f3b03db99de)
+
+</div>
+
+- Para pegar ID do canal do discord você precisa colocar seu discord em modo administrador, para isso va em configurações > avançado > modo desenvolvedor e ative a caixinha.
+
+<div align="center" dir="auto">
+
+ ![image](https://github.com/LKzinxyz/SDBOT/assets/122848089/baade82d-bb91-445b-899c-7cec87a429e6)
+
+</div>
 
 - Volte para seu grupo no discord, clique com o botão direito em um canal de chat de sua escolha e clique em copiar ID do canal e cole em SEU_ID_DO_CANAL_DISCORD
 
@@ -86,3 +105,4 @@ seunick:suasenha:/pw suapw:
 ```
 
 - Outros comandos e funções serão adicionados no futuro
+
