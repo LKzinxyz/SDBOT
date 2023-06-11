@@ -8,7 +8,7 @@
     "discord.js": "^14.11.0",
     "fs": "^0.0.1-security",
     "math": "^0.0.3",
-    "mineflayer": "^4.8.1",
+    "mineflayer": "^4.9.0",
     "moment": "^2.29.4"
   }
 }
