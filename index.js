@@ -1,11 +1,12 @@
 const mineflayer = require('mineflayer');
+const { Client } = require('discord.js');
+const client = new Client({ intents: 3276799 });
 const fs = require('fs');
 const utils = require('./src/utils/utils');
 const ready = require('./src/utils/ready');
 const handleCommands = require('./src/commands/commands');
 const config = require('./config.json');
-const { Client } = require('discord.js');
-const client = new Client({ intents: 3276799 });
+
 var colors = require('colors');
 
 client.login(config.discordToken);
