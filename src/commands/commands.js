@@ -230,28 +230,6 @@ const handleCommands = (bot, channel, username, message) => {
         }
     }
 
-    /* Pega Kit Vip *desativado*
-      else if (message.content.startsWith(`+vip`)) {
-        let split = message.content.split(' ')
-        if (split[1] == bot.username || split[1] == 'all') {
-          if (bot.location !== 'home') {
-            channel.send(`${username} não está na home, aguarde um momento`)
-            return;
-          }
-          else {
-            let index = split.length - 2
-            split = split.splice(2, index)
-            split = split.join(' ')
-            channel.send(`${username}: Pegou o kit vip.`)
-            bot.chat('/kit')
-            bot.on('windowOpen', function () {
-              bot.clickWindow(13, 0, 0);
-              bot.clickWindow(11, 0, 0);
-            });
-          }
-        }
-      } */
-
     // Desliga uma conta
     else if (message.content.startsWith('+stop')) {
         let split = message.content.split(' ')
