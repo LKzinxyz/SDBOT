@@ -259,8 +259,6 @@ const handleCommands = (bot, channel, username, message) => {
 
     // Lista De Comandos final //
 
-
-
 };
 
 module.exports = handleCommands;
