@@ -2,7 +2,7 @@
 chcp 65001 > nul
 
 color 0D
-title STARDIX BOT by LKzinxYz
+title STARDIX BOT by LKzinxYz v1.9.1
 
 mode con: cols=75 lines=11
 echo    ____  ____  __   ____  ____  __  _  _    ____   __  ____  ____
