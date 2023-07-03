@@ -1,4 +1,4 @@
-# SDBOT
+# MINEBOT
 
 <h2> O que o BOT faz? </h2>
 
